@@ -5,4 +5,6 @@ Notepad is simple app built in kotlin.This app includes View Models,Room Databas
 
 //Notes added
 
+![Screenshot (321)](https://user-images.githubusercontent.com/53367782/120342847-cc0bff80-c315-11eb-8cb6-01db60a76e52.png)
+
 
